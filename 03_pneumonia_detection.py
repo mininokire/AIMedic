@@ -1,5 +1,6 @@
 # pneumonia_detection.py
-# 医疗影像分析：肺炎X光图像分类
+# 医疗影像分析：肺炎X光图像分类 
+# 医疗影像分析：基于预训练的ResNet模型分类肺炎X光图像。
 import torch
 import torchvision.transforms as transforms
 from torchvision import models
