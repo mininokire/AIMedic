@@ -1,5 +1,6 @@
 # diabetes_prediction.py
 # 自动化诊断：糖尿病预测
+# 自动化诊断：使用随机森林模型预测糖尿病风险。
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
