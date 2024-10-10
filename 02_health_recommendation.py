@@ -1,5 +1,6 @@
 # health_recommendation.py
 # 个性化健康建议：基于用户数据的健康分析
+# 个性化健康建议：利用线性回归模型生成健康建议。
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 import numpy as np
